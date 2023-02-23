@@ -18,9 +18,11 @@ $ git add README.md
 $ git status
 > Changes to be committed: (mostra os arquivos prontos para commit)
 
-## (Dica) Se "Changes to be committed" pode remover os arquivos para commit com o comando:
+## (Dica) Se "Changes to be committed" pode remover os arquivos para commit (state area) com o comando:
 $ git reset
 
+# Commit dos arquivos:
+$ git commit -m "inserir um comentário significativo"
 
 
 
