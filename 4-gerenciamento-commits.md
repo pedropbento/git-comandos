@@ -11,6 +11,22 @@ $ git log
 ## Verificar os logs de um arquivo expecífico:
 $ git log -p <nome arquivo>
 
+## Voltar a um commit específico:
+# Pegar o hash pelo comando "git log".
+$ git checkout <hash do commit a retornar>
+
+## Voltar a posição recente:
+$ git checkout main
+
+## Remover o ultimo COMMIT e mantém as alterações do arquivo para você rever:
+$ git reset --soft HEAD~1
+
+## Remover ultimo COMMIT e retornando o estado do arquivo para o último COMMIT:
+$ git reset -- hard
+
+
+
+
 
 
 
