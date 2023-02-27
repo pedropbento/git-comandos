@@ -24,6 +24,9 @@ $ ls
 ## (DICA) Excluir todos arquivos de uma pasta (CUIDADO!!!)
 $ rm -rf *
 
+## (DICA) Excluir um arquivo ou pasta (CUIDADO!!!)
+$ rm -rf bin/ aquivo.txt
+
 ## Criar o repositories GIT:
 $ git init
 
