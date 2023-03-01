@@ -26,6 +26,16 @@ $ git checkout feature/nova-versao
 4. [Executa o comando "cherry-pick" para puxar as alterações do commit da feature/nova-versao] 
 $ git cherry-pick 7fa15e90ad2e5e00a95a2617ba6ee7d695ed1a00
 
+5. [Execute o ADD e o COMMIT na brach feature/nova-versao]
+$ git add .
+$ git commit -m "Commid das alterações do horfix"
+
+6. [Execute o MERGE do branch feature/nova-versao na MAIN]:
+> Mude para o branch MAIN:
+$ git checkout main
+> Execute MERGE:
+git merge feature/novo_arquivo
+
 
 
 
