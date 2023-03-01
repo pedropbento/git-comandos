@@ -36,6 +36,11 @@ $ git checkout main
 > Execute MERGE:
 git merge feature/novo_arquivo
 
+# Deletar os BRANCHS hotfix e feature/novo_arquivo
+$ git branch -d feature/novo_arquivo
+$ git branch -d hotfix
+
+
 
 
 
