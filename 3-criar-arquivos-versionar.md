@@ -1,5 +1,5 @@
-# PRIMEIRO REPOSITÓRIO GIT
-> Crie o repositório Git e navege pelas pastas.
+# Criar arquivos no repositório e versionando.
+> Crie o repositório git local e fazer o commit.
 
 ## Verificar conteúdo pastas
 $ ls
