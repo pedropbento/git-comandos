@@ -4,5 +4,5 @@
 
 ## Comandos
 
-1. [Configuração inicial] (https://github.com/pedropbento/git-comandos/blob/main/1-configuracao-inicial.md)
+1. [Configuração inicial](https://github.com/pedropbento/git-comandos/blob/main/1-configuracao-inicial.md)
 
