@@ -17,7 +17,7 @@ $ git merge novaBranch
 ## Subir as alterações do Main local para Origen Main:
 $ git push
 
-# E para Baixar as alterações do repostitório remoto usamos o comando Pull:
+## E para Baixar as alterações do repostitório remoto usamos o comando Pull:
 $ git pull
 
 
