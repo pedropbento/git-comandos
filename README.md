@@ -6,5 +6,5 @@
 
 1. [Configuração inicial](https://github.com/pedropbento/git-comandos/blob/main/1-configuracao-inicial.md)
 2. [Criando o primeiro repositório](https://github.com/pedropbento/git-comandos/blob/main/2-primeiro-repositorio.md)
-3. 
+3. [Criando arquivos no repositório](https://github.com/pedropbento/git-comandos/blob/main/3-criar-arquivos-versionar.md)
 
