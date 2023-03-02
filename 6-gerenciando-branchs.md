@@ -2,13 +2,13 @@
 > Criar ramificações ("multiversos") do branch principal (main) para que as alterações só retornem ao main quando concluidas.
 
 ##  Criando uma BRANCH:
-$ git branch feature/geren_branch
+$ git branch feature/novo_arquivo
 
 ## Visualizar as BRANCHS:
 $ git branch
 
 ## Selecionar a BRANCH que irá trabalhar:
-$ git checkout feature/geren_branch
+$ git checkout feature/novo_arquivo
 
 ## (DICA) Comando para criar e já mudar para BRANCH recem criada:
 $ git checkout -b feature/novo_arquivo
@@ -23,12 +23,12 @@ $ git branch -d feature/novo_arquivo
 $ git branch -D feature/novo_arquivo
 
 ##  Criando uma BRANCH:
-$ git branch feature/geren_branch
+$ git branch feature/novo_arquivo
 
 ## Visualizar as BRANCHS:
 $ git branch
 
 ## Selecionar a BRANCH que irá trabalhar:
-$ git checkout feature/geren_branch
+$ git checkout feature/novo_arquivo
 
 
