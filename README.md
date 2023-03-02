@@ -5,4 +5,6 @@
 ## Comandos
 
 1. [Configuração inicial](https://github.com/pedropbento/git-comandos/blob/main/1-configuracao-inicial.md)
+2. [Criando o primeiro repositório](https://github.com/pedropbento/git-comandos/blob/main/2-primeiro-repositorio.md)
+3. 
 
