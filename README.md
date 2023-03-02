@@ -14,7 +14,7 @@
 8. [Cherry Pick](https://github.com/pedropbento/git-comandos/blob/main/8-cherry-pick.md)
 9. [Git Tag](https://github.com/pedropbento/git-comandos/blob/main/9-git-tag.md)
 10. [GitHub - cridando key public e private](https://github.com/pedropbento/git-comandos/blob/main/10-git-remoto-criando-chaves-SSH.md)
-11. []()
-12. []()
-13. []()
+11. [GitHub - Incluindo o repositorio local no GitHub](https://github.com/pedropbento/git-comandos/blob/main/11-adicionando-repositorio-local-no-github.md)
+12. [GitHub - Clonando repositório](https://github.com/pedropbento/git-comandos/blob/main/12-clonado-repositorio-remoto-localmente.md)
+13. [GitHub - Trabalhando com repositório Remoto](https://github.com/pedropbento/git-comandos/blob/main/13-trabalhando-com-repositorio-remoto.md)
 
