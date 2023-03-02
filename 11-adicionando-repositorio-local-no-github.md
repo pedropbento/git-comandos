@@ -1,6 +1,5 @@
 # Adicionando o seu repositório local no gitHub:
-
-## Subindo seus arquivos local para o servidor remoto:
+> Subindo seus arquivos local para o servidor remoto.
 
 ## Verifique se não tem commits a serem feitos:
 $ git status
