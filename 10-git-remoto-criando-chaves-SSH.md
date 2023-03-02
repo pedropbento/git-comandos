@@ -22,4 +22,6 @@ $ pwd
 # Visualizar e copiar a chave public:
 $ cat id_rsa.pub
 
+# Copie a chave publica e adicione na sua conta do GitHub na opção "Settings/SSH and GPG Keys":
+> Opção disponível clicando no icone do seu usuário GitHub no canto superior direito de sua tela.
 
