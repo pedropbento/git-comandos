@@ -9,7 +9,7 @@ $ git config --list
 $ git config --global user.name "Pedro Paulo Bento de Souza"
 
 ## Alterar o User.email
-$ git config --global user.email "pedrobento.treina@gmail.com"
+$ git config --global user.email "seu.email@gmail.com"
 
 ## Configurando o editor de código padrão
 $ git config --global core.editor vscode
