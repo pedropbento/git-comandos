@@ -11,7 +11,7 @@ $ git commit -m "Alterações locais."
 ## Enviar alterações para GitHub, porém vinculando a uma Branch em Origin Main
 $ git push --set-upstream origin novaBranch
 
-## Fazer o Merge da novaBranch com o Main loca.
+## Fazer o Merge da novaBranch com o Main local.
 $ git merge novaBranch
 
 ## Subir as alterações do Main local para Origen Main:
