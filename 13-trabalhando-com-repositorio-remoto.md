@@ -20,6 +20,14 @@ $ git push
 ## E para Baixar as alterações do repostitório remoto usamos o comando Pull:
 $ git pull
 
+## Dicas:
+1. [Comando para visualizar as branchs local]:
+$ git branch
+1. [Comando para visualizar as branchs remota]:
+$ git branch -r
+
+
+
 
 
 
