@@ -12,17 +12,9 @@ $ git config pull.rebase false
 > [CASE-2] Foi alterado um arquivo local e também teve alteração no mesmo arquivo remoto. Ao executar localmente o "git pull" será retornado "CONFLICT (content): Merge conflict..."
 
 ## A solução do CASE-2 é:
-1. Editar o arquivo local e localizar os trexos marcados e resolver o conflito unindo os código ou assumindo o local:
-
-$$
-  <<<<<<<< HEAD
-  aqui o código do arquivo local
-  ========
-  aqui o código do arquivo remoto
- >>>>>>>> 36abb01668f469b7900b096dc2455721db219e0c"
-$$
-
+1. Editar o arquivo local e localizar os trexos marcados e resolver o conflito unindo os código ou assumindo o local;
 2. Resolvido o conflito é seguir com os comandos:
+$ git pull
 $ git add .
 $ git commit -m "Resolvndo conflito."
 $ git push
