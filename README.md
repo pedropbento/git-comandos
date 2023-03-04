@@ -17,4 +17,4 @@
 11. [GitHub - Incluindo o repositorio local no GitHub](https://github.com/pedropbento/git-comandos/blob/main/11-adicionando-repositorio-local-no-github.md)
 12. [GitHub - Clonando repositório](https://github.com/pedropbento/git-comandos/blob/main/12-clonado-repositorio-remoto-localmente.md)
 13. [GitHub - Trabalhando com repositório Remoto](https://github.com/pedropbento/git-comandos/blob/main/13-trabalhando-com-repositorio-remoto.md)
-
+14. [Lidando com conflitos](https://github.com/pedropbento/git-comandos/blob/main/14-lidando-com-conflitos-local-remoto.md)
