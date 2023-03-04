@@ -9,5 +9,7 @@ $ git pull
 ## A solução para o CASE acima é configurar a decisão que o git tomará nessa situação:
 $ git config pull.rebase false
 
+CASE 2 
 
+##
 
