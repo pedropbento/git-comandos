@@ -21,10 +21,10 @@ $ git push
 $ git pull
 
 ## Dicas:
-1. [Comando para visualizar as branchs local]:
-$ git branch
-1. [Comando para visualizar as branchs remota]:
-$ git branch -r
+> 1. Comando para visualizar as branchs local:
+> $ git branch
+> 2. Comando para visualizar as branchs remota:
+> $ git branch -r
 
 
 
