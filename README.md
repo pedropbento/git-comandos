@@ -18,3 +18,4 @@
 12. [GitHub - Clonando repositório](https://github.com/pedropbento/git-comandos/blob/main/12-clonado-repositorio-remoto-localmente.md)
 13. [GitHub - Trabalhando com repositório Remoto](https://github.com/pedropbento/git-comandos/blob/main/13-trabalhando-com-repositorio-remoto.md)
 14. [Lidando com conflitos](https://github.com/pedropbento/git-comandos/blob/main/14-lidando-com-conflitos-local-remoto.md)
+15. [Git Log](https://github.com/pedropbento/git-comandos/blob/main/15-git-log.md)
