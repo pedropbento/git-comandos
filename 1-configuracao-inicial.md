@@ -6,7 +6,7 @@
 $ git config --list
 
 ## Alterar o User.Name
-$ git config --global user.name "Pedro Paulo Bento de Souza"
+$ git config --global user.name "Pedro Paulo"
 
 ## Alterar o User.email
 $ git config --global user.email "seu.email@gmail.com"
