@@ -7,7 +7,7 @@
 1. [Configuração inicial](https://github.com/pedropbento/git-comandos/blob/main/1-configuracao-inicial.md)
 2. [Criando o primeiro repositório](https://github.com/pedropbento/git-comandos/blob/main/2-primeiro-repositorio.md)
 3. [Criando arquivos no repositório](https://github.com/pedropbento/git-comandos/blob/main/3-criar-arquivos-versionar.md)
-4. [Gerenciando os commits](https://github.com/pedropbento/git-comandos/blob/main/5-ignorando-arquivos-gitignore.md)
+4. [Gerenciando os commits](https://github.com/pedropbento/git-comandos/blob/main/4-gerenciamento-commits.md)
 5. [Ignorando arquivos com gitignore](https://github.com/pedropbento/git-comandos/blob/main/6-gerenciando-branchs.md)
 6. [Gerenciando branchs](https://github.com/pedropbento/git-comandos/blob/main/6-gerenciando-branchs.md)
 7. [Merge](https://github.com/pedropbento/git-comandos/blob/main/7-merge.md)
