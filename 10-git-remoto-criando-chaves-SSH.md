@@ -1,4 +1,4 @@
-# Criando o par de chaves privada e pubilica para acesso ao repostiório remoto do GitHub.
+# Criando o par de chaves privada e pública para acesso ao repostiório remoto do GitHub.
 
 ## Criando o par de chaves:
 $ ssh-keygen -t rsa -b 2048
