@@ -4,7 +4,7 @@
 ## Verifique se não tem commits a serem feitos:
 $ git status
 
-## Execute o comando para subir os arquviso para o repositorio remoto:
+## Execute o comando para subir os arquivos para o repositorio remoto:
 $ git remote add origin git@github.com:pedropbento/git-comandos.git
 
 ## Renomear a Branch para Main:
